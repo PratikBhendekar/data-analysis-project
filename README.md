@@ -20,4 +20,4 @@ You can install these libraries by running:
 ```bash
 pip install pandas matplotlib seaborn xlsxwriter
 
-python scripts/data_analysis.py
+python scripts/data_analysis.py or using Jupyter notebook you want install it and keep input file and script in same folder then run it 
